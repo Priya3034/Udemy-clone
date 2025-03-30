@@ -45,7 +45,8 @@ Clone this repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/udemy-clone.git
+git clone https://github.com/Priya3034/udemy-clone.git
+
 Open the project folder
 
 Launch index.html in your browser
