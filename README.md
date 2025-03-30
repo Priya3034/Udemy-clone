@@ -5,10 +5,15 @@ This is a static front page of a Udemy-like online learning platform, built usin
 📌 Features
 
 ✅ Landing Page UI – Clean and structured homepage layout
+
 ✅ Header & Navigation Bar – Similar to Udemy’s top navigation
+
 ✅ Hero Section – Eye-catching banner with a call-to-action
+
 ✅ Course Sections – Showcases popular courses (static content)
+
 ✅ Footer Section – Includes links for user navigation
+
 ✅ Basic Responsiveness – Optimized for different screen sizes (if applicable)
 
 🛠️ Technologies Used
