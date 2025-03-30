@@ -50,7 +50,9 @@ Launch index.html in your browser
 📢 Future Improvements
 
 🔹 Add more pages (Course details, Login, Signup)
+
 🔹 Implement responsiveness with Flexbox/Grid
+
 🔹 Enhance styling with animations & effects
 
 📌 Note: This project is for learning purposes only and does not contain backend functionality.
