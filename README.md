@@ -1,4 +1,4 @@
-Udemy Clone - Front Page
+#Udemy Clone 
 
 This is a static front page of a Udemy-like online learning platform, built using HTML and CSS. The design mimics the look and feel of Udemy’s homepage, featuring a modern and responsive layout.
 
