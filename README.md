@@ -32,8 +32,11 @@ bash
 Copy
 Edit
 /udemy-clone
+
 │── index.html    # Main HTML file
+
 │── style.css     # Stylesheet for UI design
+
 └── assets/       # (If any images or icons are used)
 
 🔧 How to Run
