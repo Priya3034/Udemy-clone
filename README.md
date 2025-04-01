@@ -43,9 +43,12 @@ Edit
 Clone this repository
 
 bash
+
 Copy
+
 Edit
-git clone https://github.com/Priya3034/udemy-clone.git
+
+git clone [https://github.com/Priya3034/udemy-clone.git](https://priya3034.github.io/Udemy-clone/)
 
 Open the project folder
 
