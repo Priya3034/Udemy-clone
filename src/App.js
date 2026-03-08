@@ -16,8 +16,8 @@ function App(){
       <Categories></Categories>
       <Sale></Sale>
       <Recommend></Recommend>
-      <Popular></Popular>
       <Topic></Topic>
+      <Popular></Popular>
       <Footer></Footer>
 
     </div>
