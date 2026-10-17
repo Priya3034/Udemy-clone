@@ -24,7 +24,7 @@ CSS3 – For styling and layout
 
 🚀 Live Demo
 
-(https://priya3034.github.io/Udemy-clone/)
+(If hosted, add the link here, e.g., GitHub Pages or Netlify)
 
 📂 Project Structure
 
@@ -48,7 +48,7 @@ Copy
 
 Edit
 
-git clone [https://github.com/Priya3034/udemy-clone.git]
+git clone [https://github.com/Priya3034/udemy-clone.git](https://priya3034.github.io/Udemy-clone/)
 
 Open the project folder
 
